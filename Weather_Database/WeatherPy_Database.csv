@@ -1,4 +1,4 @@
-City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Desription,Date
+City_ID,City,Lat,Lng,Max Temp,Humidity,Cloudiness,Wind Speed,Description,Date
 0,Charagua,-19.8,-63.2167,89.17,48,58,8.23,broken clouds,2022-02-02 22:30:46
 1,Ushuaia,-54.8,-68.3,44.26,57,75,25.32,broken clouds,2022-02-02 22:30:46
 2,Mataura,-46.1927,168.8643,58.48,97,100,3.96,moderate rain,2022-02-02 22:28:57
