@@ -9,12 +9,12 @@ Although not automated, the user then may select a vacation destination, along w
 The following is an example search. In this case, the user has entered the desired temperature range of 60 to 65 degrees Fahrenheit.
 
 ### Cities Around the World with Temperatures in the Desired Range
-!(City Options)["Vacation_Search/WeatherPy_vacation_map.png"]
+![City Options]("Vacation_Search/WeatherPy_vacation_map.png")
 
 From the displayed cities, the user selects a destination and additional nearby cities to visit. In this case, the traveler selected Cape Town, South Africa. 
 
 ### Selected Destination and Nearby City with Driving Routes
-!(Selected cities)[WeatherPy_travel_map.png]
+![Selected cities](WeatherPy_travel_map.png)
 
 ### Selected Destination and Nearby City with Hotel and Weather Information
-!(Selected cities)[WeatherPy_travel_map_markers.png]
+![Selected cities](WeatherPy_travel_map_markers.png)
