@@ -1,5 +1,4 @@
 City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
-6,Taoudenni,ML,61.5,scattered clouds,22.6783,-3.9836,
 7,Cape Town,ZA,62.28,clear sky,-33.9258,18.4232,Southern Sun Waterfront Cape Town
 10,Bredasdorp,ZA,60.12,overcast clouds,-34.5322,20.0403,Bredasdorp Country Manor
 16,Hermanus,ZA,60.91,overcast clouds,-34.4187,19.2345,Misty Waves Boutique Hotel
@@ -9,7 +8,6 @@ City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
 71,Rajpipla,IN,64.35,clear sky,21.8667,73.5,Lal Tower Govt. Guest House
 117,Diego De Almagro,CL,63.64,clear sky,-26.3667,-70.05,hotel luna del desierto
 124,Comodoro Rivadavia,AR,60.66,scattered clouds,-45.8667,-67.5,Austral Hotel
-133,Adrar,MR,60.08,clear sky,20.5022,-10.0711,
 137,Maymyo,MM,64.13,clear sky,22.0333,96.4667,Tiger Hotel
 194,Tandil,AR,62.24,light rain,-37.3217,-59.1332,Hostal de la Sierra Tandil
 220,Osorno,CL,63.25,clear sky,-40.5667,-73.15,Sonesta Hotel Osorno
@@ -22,7 +20,6 @@ City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
 259,Martinsville,US,60.28,overcast clouds,36.6915,-79.8725,Hampton Inn Martinsville
 262,Rioblanco,CO,60.8,overcast clouds,3.5308,-75.6806,hotel en tolima colombia
 269,Menongue,AO,60.93,overcast clouds,-14.6585,17.691,Ritz Lauca
-279,Tingi,TZ,63.7,overcast clouds,-11.3,35.0333,
 284,Nishihara,JP,62.26,broken clouds,26.1842,127.7558,Minshuku Agaihama
 291,Lubumbashi,CD,62.53,moderate rain,-11.6609,27.4794,Glo Flats
 303,Kamwenge,UG,63.05,overcast clouds,0.1866,30.4539,Marianna Guest House
@@ -39,7 +36,6 @@ City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
 524,Lady Frere,ZA,60.89,overcast clouds,-31.7031,27.2329,Goshen BnB
 532,Wum,CM,64.71,scattered clouds,6.3833,10.0667,Wum Council Hall
 535,Camacha,PT,63.54,few clouds,33.0833,-16.3333,Hotel Porto Santo & Spa
-538,Araouane,ML,62.82,clear sky,18.9048,-3.5265,
 539,Aguimes,ES,63.23,clear sky,27.9054,-15.4461,Hotel Villa de Aguimes
 556,Rajshahi,BD,61.97,moderate rain,24.3667,88.6,Anjum Hotel International
 566,Riyadh,SA,61.47,few clouds,24.6877,46.7219,"InterContinental Riyadh, an IHG Hotel"
